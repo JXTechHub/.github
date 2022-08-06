@@ -1,5 +1,3 @@
-## Hi there 👋
-
 🙋‍♀️ This organization is currently for fun
 
 <!--
