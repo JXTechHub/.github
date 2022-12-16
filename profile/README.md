@@ -2,7 +2,7 @@
 
 The purpose of this personal organization is to create educational content that helps to recap important basic concepts in software engineering like data structures & algorithms, databases and different types of programming like OOP(Object Oriental Programming). As an additional goal, we aim to design and build applications that adhere to good software architecture practices across different programming languages.
 
-**Note: Still a work in progress. **
+**Note: Still a work in progress.**
 
 ## 👩‍ Background
 Every now and then, I tend to forget these basic concepts and have to constantly "google" to refresh my memory. As an
