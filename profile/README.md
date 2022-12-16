@@ -13,7 +13,7 @@ As this organization grows, I believe it will be helpful to students and others 
 
 
 ## 🌈 Credits
-1. Created my logo at: LogoMakr.com/app.
+1. Created my logo at: [LogoMakr.com/app](https://logomakr.com/).
 
 <!--
 **Here are some ideas to get you started:**
