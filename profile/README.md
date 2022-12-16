@@ -2,7 +2,7 @@
 
 The purpose of this personal organization is to create educational content that helps to recap important basic concepts in software engineering like data structures & algorithms, databases and different types of programming like OOP(Object Oriental Programming). As an additional goal, we aim to design and build applications that adhere to good software architecture practices across different programming languages.
 
-## 🌈 Background
+## 👩‍ Background
 Every now and then, I tend to forget these basic concepts and have to constantly "google" to refresh my memory. As an
 undergraduate student studying software engineering, I felt that these topics could be simplified and explained better. Having a strong understanding of concepts and being able to apply them in practice are key ingredients in being a good programmer.
 
@@ -10,6 +10,10 @@ As this organization grows, I believe it will be helpful to students and others 
 
 ## 🍿 Fun facts 
 1. I'm still learning too :)
+
+
+## 🌈 Credits
+1. Created my logo at LogoMakr.com/app
 
 <!--
 **Here are some ideas to get you started:**
