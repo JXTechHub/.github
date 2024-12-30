@@ -6,7 +6,7 @@ The purpose of this personal organization is to design and build applications th
 
 ## 👩‍ Background
 Every now and then, I tend to forget these basic concepts and have to constantly "google" to refresh my memory. As an
-undergraduate student studying software engineering, I felt that having a strong understanding of these concepts and being able to apply them in practice are key ingredients in being a good programmer.
+junior software engineering, I felt that having a strong understanding of these concepts and being able to apply them in practice are key ingredients in being a good programmer.
 
 As this organization grows, I believe it will be helpful to people and others who are interested in learning and improving themselves continuously.
 
