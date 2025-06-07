@@ -5,7 +5,7 @@ The purpose of this personal organization is to design and build applications th
 **Note: Still a work in progress~**
 
 ## 👩‍ Background
-Every now and then, I tend to forget these basic concepts and have to constantly "google" to refresh my memory. As an
+Every now and then, I tend to forget these basic concepts and have to constantly "google" to refresh my memory. As a
 junior software engineering, I felt that having a strong understanding of these concepts and being able to apply them in practice are key ingredients in being a good programmer.
 
 As this organization grows, I believe it will be helpful to people and others who are interested in learning and improving themselves continuously.
