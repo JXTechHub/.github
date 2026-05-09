@@ -2,7 +2,7 @@
 
 The purpose of this personal organization is to design and build applications that adhere to good software architecture practices across different programming languages.
 
-**Note: Still a work in progress~**
+**Note: Not updating anymore~**
 
 ## 👩‍ Background
 Every now and then, I tend to forget these basic concepts and have to constantly "google" to refresh my memory. As a
